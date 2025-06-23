@@ -1,0 +1,24 @@
+.
+├── -
+│   ├── test.html
+│   ├── web.audit.js
+│   ├── web.js
+│   ├── web.js.map
+│   ├── web.test.js
+│   └── web.test.js.map
+├── -css
+│   └── hello.view.css.ts
+├── -view.tree
+│   ├── hello.view.tree.d.ts
+│   ├── hello.view.tree.d.ts.map
+│   ├── hello.view.tree.js
+│   ├── hello.view.tree.js.map
+│   └── hello.view.tree.locale=en.json
+├── hello.test.ts
+├── hello.view.css
+├── hello.view.tree
+├── hello.view.ts
+├── index.html
+└── tree.txt
+
+4 directories, 18 files
